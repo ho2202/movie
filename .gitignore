@@ -2,7 +2,7 @@
 .mvn/** */
 mvnw
 mvnw.cmd
-src\main\resources\application-db.properties
+src/main/resources/application-db.properties
 
 HELP.md
 target/
